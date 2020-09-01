@@ -13,6 +13,8 @@
 
 ## インストール方法
 
+まずは Typora をダウンロードしてインストール(Windows、Mac)
+
 https://typora.io/
 
 1. CSSファイルをダウンロード後、Typora の「**設定 > 表示** 」を開きます。
